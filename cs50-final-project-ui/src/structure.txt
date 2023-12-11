@@ -1,0 +1,27 @@
+client
++-- login
++-- register
++-- cart
++-- order
+
+core
++-- footer
++-- header
++-- home
++-- page-not-found
+
+product
++-- product
++-- product-details
++-- products
++-- suggested-products
+
+shared
++-- models
+|   +-- navigation
+|   +-- product
+|   +-- cart
+|   +-- payment
+|   +-- order
+|   +-- user
++-- services
