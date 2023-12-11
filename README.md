@@ -81,3 +81,5 @@ shared
 
 * `DB_Script_FillingData_Only.sql`
 * `DB_Script_Schema_Only.sql`
+
+![Alt text](image-2.png)
